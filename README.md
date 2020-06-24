@@ -725,7 +725,6 @@ public class BatchReadAndRecognize {
 
 6. 其他还有很多图片轻量级操作工具博文什么的，在此就不一一列举了
 
-最后皮一下:blush:：
-
-![](./images/pro14.png)
+### 关注我
+![公众号](http://image.augustrush8.com/images/mpqrcode.jpg)
 
